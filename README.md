@@ -140,7 +140,7 @@ It motivates me to keep learning and sharing more solutions.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn Profile Link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/harshit-shukla-0ab5a5324
 - 💻 GitHub: https://github.com/Harshit10330
 
 ---
